@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.widget.Button
 
 //main activity
+//
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
